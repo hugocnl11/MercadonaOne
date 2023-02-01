@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mercadona.shopone.MercadonaShopOneTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in com.mercadona.shopone.MercadonaShopOneTest
+foo  Time elapsed: 0.031 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <fixme> but was: <foo>
+	at com.mercadona.shopone.MercadonaShopOneTest.foo(MercadonaShopOneTest.java:14)
+
